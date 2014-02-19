@@ -1,6 +1,8 @@
 R-tweetgraph
 ============
 
+Thanks to [@ufeslabic](https://github.com/ufeslabic/)
+
 1. Install R
 2. Install package `igraph`
 
